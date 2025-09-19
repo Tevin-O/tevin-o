@@ -1,2 +1,0 @@
-# Profile
-Github Profile Visualization

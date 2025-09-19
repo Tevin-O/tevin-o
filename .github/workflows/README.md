@@ -51,11 +51,12 @@
   <a href="https://linkedin.com/in/tevin-omondi-40655723b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://instagram.com/te.vo.h"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/></a>
   <a href="mailto:tevin@uwezolinkinitiative.org"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
-</div>
+</div> 
 
 ---
 
 ### 🐍 GitHub Activity Snake
 
-<img src="https://raw.githubusercontent.com/Tevin-O/Tevin-O/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Tevin-O/Tevin-O/output/snake.svg)
+
 

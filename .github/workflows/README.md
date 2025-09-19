@@ -57,5 +57,5 @@
 
 ### 🐍 GitHub Activity Snake
 
-<img src="https://raw.githubusercontent.com/tevin-o/tevin-o/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tevin-O/Tevin-O/output/snake.svg" alt="Snake animation" />
 
